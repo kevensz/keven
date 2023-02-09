@@ -1,0 +1,317 @@
+﻿#EXTM3U
+#EXTINF:-1,四川文化旅游 高清
+http://192.168.8.188:5678/sxg.php?id=SCTV-2-H265_4000
+#EXTINF:-1,四川经济 高清
+http://192.168.8.188:5678/sxg.php?id=SCTV-3-H265_4000
+#EXTINF:-1,四川新闻 高清
+http://192.168.8.188:5678/sxg.php?id=SCTV-4H265_4000
+#EXTINF:-1,四川影视文艺 高清
+http://192.168.8.188:5678/sxg.php?id=SCTV-5-scysH265_4000
+#EXTINF:-1,四川妇女儿童 高清
+http://192.168.8.188:5678/sxg.php?id=SCTV-7-_4000
+#EXTINF:-1,四川科教 高清
+http://192.168.8.188:5678/sxg.php?id=SCTV-ggSCTV-8_4000
+#EXTINF:-1,四川乡村 高清
+http://192.168.8.188:5678/sxg.php?id=SCTV-kjSCTV-9-_4000
+#EXTINF:-1,四川峨嵋电影 高清
+http://192.168.8.188:5678/sxg.php?id=emdygqH265_4000
+#EXTINF:-1,4K超高清电影 4K
+http://192.168.8.188:5678/sxg.php?id=emdy4k_8000
+#EXTINF:-1,欢笑剧场 4K
+http://192.168.8.188:5678/sxg.php?id=hxjc-4k_8000
+#EXTINF:-1,CHC家庭影院 高清
+http://192.168.8.188:5678/sxg.php?id=jbtygqCHCjtyyH265_4000
+#EXTINF:-1,CHC高清电影 高清
+http://192.168.8.188:5678/sxg.php?id=lnwsCHC-HDH265_4000
+#EXTINF:-1,CHC动作电影 高清
+http://192.168.8.188:5678/sxg.php?id=wqCHCdzdyH265_4000
+#EXTINF:-1,CBN幸福剧场 高清
+http://192.168.8.188:5678/sxg.php?id=xfjc_4000
+#EXTINF:-1,CBN每日影院 高清
+http://192.168.8.188:5678/sxg.php?id=mryy_4000
+#EXTINF:-1,CCTV-1 综合 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-1H265_4000
+#EXTINF:-1,CCTV-2 财经 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-2H265_4000
+#EXTINF:-1,CCTV-3 综艺 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1,CCTV-4 中文国际 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-4H265_4000
+#EXTINF:-1,CCTV-5 体育 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-5H265_4000
+#EXTINF:-1,CCTV-5⁺ 体育赛事 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-5plusH265_4000
+#EXTINF:-1,CCTV-6 电影 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-6H265_4000
+#EXTINF:-1,CCTV-7 国防军事 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-7H265_4000
+#EXTINF:-1,CCTV-8 电视剧 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-8H265_4000
+#EXTINF:-1,CCTV-9 纪录 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-9H265_4000
+#EXTINF:-1,CCTV-10 科教 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-10H265_4000
+#EXTINF:-1,CCTV-11 戏曲 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-11-H265_4000
+#EXTINF:-1,CCTV-12 社会与法 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-12H265_4000
+#EXTINF:-1,CCTV-13 新闻 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-xw_4000
+#EXTINF:-1,CCTV-14 少儿 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-14H265_4000
+#EXTINF:-1,CCTV-15 音乐 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-15-yyH265_4000
+#EXTINF:-1,CCTV-16 奥林匹克 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-16_4000
+#EXTINF:-1,CCTV-16 奥林匹克 4K
+http://192.168.8.188:5678/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1,CCTV-17 农业农村 高清
+http://192.168.8.188:5678/sxg.php?id=CCTV-17_4000
+#EXTINF:-1,CCTV-4K 超高清
+http://192.168.8.188:5678/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1,CETV-1 高清
+http://192.168.8.188:5678/sxg.php?id=CETV-1H264_4000
+#EXTINF:-1,凤凰中文 高清
+http://192.168.8.188:5678/sxg.php?id=test1_4000
+#EXTINF:-1,凤凰资讯 高清
+http://192.168.8.188:5678/sxg.php?id=test2_4000
+#EXTINF:-1,黑龙江卫视 高清
+http://192.168.8.188:5678/sxg.php?id=hljwsH265_4000
+#EXTINF:-1,吉林卫视 高清
+http://192.168.8.188:5678/sxg.php?id=jlwsH265_4000
+#EXTINF:-1,辽宁卫视 高清
+http://192.168.8.188:5678/sxg.php?id=lnwsHDH264_4000
+#EXTINF:-1,北京卫视 高清
+http://192.168.8.188:5678/sxg.php?id=bjwsH265_4000
+#EXTINF:-1,天津卫视 高清
+http://192.168.8.188:5678/sxg.php?id=tjwsH265_4000
+#EXTINF:-1,河南卫视 高清
+http://192.168.8.188:5678/sxg.php?id=hnws35_4000
+#EXTINF:-1,梨园频道 高清
+http://192.168.8.188:5678/sxg.php?id=ly_4000
+#EXTINF:-1,武术世界 高清
+http://192.168.8.188:5678/sxg.php?id=wssj_4000
+#EXTINF:-1,山东卫视 高清
+http://192.168.8.188:5678/sxg.php?id=sdwsH265_4000
+#EXTINF:-1,江苏卫视 高清
+http://192.168.8.188:5678/sxg.php?id=jswsH265_4000
+#EXTINF:-1,东方卫视 高清
+http://192.168.8.188:5678/sxg.php?id=dfwsH265_4000
+#EXTINF:-1,安徽卫视 高清
+http://192.168.8.188:5678/sxg.php?id=ahwsH265_4000
+#EXTINF:-1,湖北卫视 高清
+http://192.168.8.188:5678/sxg.php?id=hbwsH265_4000
+#EXTINF:-1,湖南卫视 高清
+http://192.168.8.188:5678/sxg.php?id=hnwsH265_4000
+#EXTINF:-1,金鹰纪实 高清
+http://192.168.8.188:5678/sxg.php?id=jyjsHDH265_4000
+#EXTINF:-1,快乐垂钓 高清
+http://192.168.8.188:5678/sxg.php?id=fyzqklcdHDH265_4000
+#EXTINF:-1,浙江卫视 高清
+http://192.168.8.188:5678/sxg.php?id=zjwsH265_4000
+#EXTINF:-1,江西卫视 高清
+http://192.168.8.188:5678/sxg.php?id=jxwsH265_4000
+#EXTINF:-1,东南卫视 高清
+http://192.168.8.188:5678/sxg.php?id=dnwsfjwsH265_4000
+#EXTINF:-1,四川卫视 高清
+http://192.168.8.188:5678/sxg.php?id=scwsH265_4000
+#EXTINF:-1,重庆卫视 高清
+http://192.168.8.188:5678/sxg.php?id=cqwsH265_4000
+#EXTINF:-1,贵州卫视 高清
+http://192.168.8.188:5678/sxg.php?id=gzwsH265_4000
+#EXTINF:-1,广东卫视 高清
+http://192.168.8.188:5678/sxg.php?id=gdwsH265_4000
+#EXTINF:-1,深圳卫视 高清
+http://192.168.8.188:5678/sxg.php?id=szwsH265_4000
+#EXTINF:-1,CBN幸福娱乐 高清
+http://192.168.8.188:5678/sxg.php?id=xfyl_4000
+#EXTINF:-1,CBN风尚生活 高清
+http://192.168.8.188:5678/sxg.php?id=fssh_4000
+#EXTINF:-1,新视觉 高清
+http://192.168.8.188:5678/sxg.php?id=ycxsjH265_4000
+#EXTINF:-1,乐游 高清
+http://192.168.8.188:5678/sxg.php?id=qjs-HDH265_4000
+#EXTINF:-1,都市剧场 高清
+http://192.168.8.188:5678/sxg.php?id=yxfydsjcHDH265_4000
+#EXTINF:-1,动漫秀场 高清
+http://192.168.8.188:5678/sxg.php?id=yybb-dmxc-H265_4000
+#EXTINF:-1,劲爆体育 高清
+http://192.168.8.188:5678/sxg.php?id=lqhxjcHDH265_4000
+#EXTINF:-1,魅力足球 高清
+http://192.168.8.188:5678/sxg.php?id=mlyy_4000
+#EXTINF:-1,生活时尚 高清
+http://192.168.8.188:5678/sxg.php?id=shssH265_4000
+#EXTINF:-1,法治天地 高清
+http://192.168.8.188:5678/sxg.php?id=fztx_4000
+#EXTINF:-1,极速汽车 高清
+http://192.168.8.188:5678/sxg.php?id=jsqcH265_4000
+#EXTINF:-1,甘孜综合 高清
+http://192.168.8.188:5678/sxg.php?id=gzxwzh_2000
+#EXTINF:-1,剑阁综合 高清
+http://192.168.8.188:5678/sxg.php?id=jgxwzhH265_4000
+#EXTINF:-1,峨眉综合 高清
+http://192.168.8.188:5678/sxg.php?id=emsxw_2000
+#EXTINF:-1,平昌综合 高清
+http://192.168.8.188:5678/sxg.php?id=pcxw_2000
+#EXTINF:-1,宣汉综合 高清
+http://192.168.8.188:5678/sxg.php?id=xhxwzh_2000
+#EXTINF:-1,新都综合 高清
+http://192.168.8.188:5678/sxg.php?id=xdzhpd_2000
+#EXTINF:-1,巴州电视 高清
+http://192.168.8.188:5678/sxg.php?id=bzxw_4000
+#EXTINF:-1,利州综合 高清
+http://192.168.8.188:5678/sxg.php?id=lzxwzh_2000
+#EXTINF:-1,彭州综合 高清
+http://192.168.8.188:5678/sxg.php?id=pzxwzh_2000
+#EXTINF:-1,彭山综合 高清
+http://192.168.8.188:5678/sxg.php?id=pszh_2000
+#EXTINF:-1,船山综合 高清
+http://192.168.8.188:5678/sxg.php?id=csxw_2000
+#EXTINF:-1,屏山综合 高清
+http://192.168.8.188:5678/sxg.php?id=psxwzh_2000
+#EXTINF:-1,南充综合 高清
+http://192.168.8.188:5678/sxg.php?id=ncxwzh_2000
+#EXTINF:-1,西充综合 高清
+http://192.168.8.188:5678/sxg.php?id=xczh_2000
+#EXTINF:-1,朝天综合 高清
+http://192.168.8.188:5678/sxg.php?id=ctxwzh_2000
+#EXTINF:-1,宝兴综合 高清
+http://192.168.8.188:5678/sxg.php?id=bxdst_2000
+#EXTINF:-1,昭化综合 高清
+http://192.168.8.188:5678/sxg.php?id=zhxwzh_2000
+#EXTINF:-1,北川综合 高清
+http://192.168.8.188:5678/sxg.php?id=bcxwHD_2000
+#EXTINF:-1,沐川综合 高清
+http://192.168.8.188:5678/sxg.php?id=mcxw_2000
+#EXTINF:-1,通江综合 高清
+http://192.168.8.188:5678/sxg.php?id=tjxwH265_4000
+#EXTINF:-1,浦江综合 高清
+http://192.168.8.188:5678/sxg.php?id=pjxw_4000
+#EXTINF:-1,米易综合 高清
+http://192.168.8.188:5678/sxg.php?id=myxwzh_2000
+#EXTINF:-1,马边综合 高清
+http://192.168.8.188:5678/sxg.php?id=mbxwzh_2000
+#EXTINF:-1,涪城综合 高清
+http://192.168.8.188:5678/sxg.php?id=fcgq_2000
+#EXTINF:-1,荣县综合 高清
+http://192.168.8.188:5678/sxg.php?id=rxzh_2000
+#EXTINF:-1,青神综合 高清
+http://192.168.8.188:5678/sxg.php?id=qszh_2000
+#EXTINF:-1,越西综合 高清
+http://192.168.8.188:5678/sxg.php?id=yxt_4000
+#EXTINF:-1,自贡综合 高清
+http://192.168.8.188:5678/sxg.php?id=zgxw_4000
+#EXTINF:-1,自贡公共 高清
+http://192.168.8.188:5678/sxg.php?id=zggg_4000
+#EXTINF:-1,恩阳新闻 高清
+http://192.168.8.188:5678/sxg.php?id=eyxw_2000
+#EXTINF:-1,天泉新闻 高清
+http://192.168.8.188:5678/sxg.php?id=tqzh_2000
+#EXTINF:-1,珙县新闻 高清
+http://192.168.8.188:5678/sxg.php?id=gxzh_2000
+#EXTINF:-1,金口河综合 高清
+http://192.168.8.188:5678/sxg.php?id=jkhdst_2000
+#EXTINF:-1,青白江综合 高清
+http://192.168.8.188:5678/sxg.php?id=qbjxwzh_2000
+#EXTINF:-1,大邑电视台 高清
+http://192.168.8.188:5678/sxg.php?id=dyytH265_4000
+#EXTINF:-1,兴文电视台 高清
+http://192.168.8.188:5678/sxg.php?id=xwt_2000
+#EXTINF:-1,荥经电视台 高清
+http://192.168.8.188:5678/sxg.php?id=xjdst_2000
+#EXTINF:-1,南江电视台 高清
+http://192.168.8.188:5678/sxg.php?id=njxw_2000
+#EXTINF:-1,盐边电视台 高清
+http://192.168.8.188:5678/sxg.php?id=ybtgq_2000
+#EXTINF:-1,金堂电视台 高清
+http://192.168.8.188:5678/sxg.php?id=jtzhpd_2000
+#EXTINF:-1,成都高新区 高清
+http://192.168.8.188:5678/sxg.php?id=cdgxdstgq_2000
+#EXTINF:-1,成都新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=CDTV-1_4000
+#EXTINF:-1,成都每日购物 高清
+http://192.168.8.188:5678/sxg.php?id=mrgw_4000
+#EXTINF:-1,什邡新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=sfx_2000
+#EXTINF:-1,开江新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=kjxwzh_2000
+#EXTINF:-1,夹江新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=jjxw_2000
+#EXTINF:-1,中江新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=zjxwzh_2000
+#EXTINF:-1,攀钢新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=pgxwzh_2000
+#EXTINF:-1,旺苍新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=wcxwzhH265_4000
+#EXTINF:-1,普格新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=pgxwzh_2000
+#EXTINF:-1,大英新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=dyxwzhH265_4000
+#EXTINF:-1,洪雅新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=hyzh_2000
+#EXTINF:-1,渠县新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=qxxwzh_2000
+#EXTINF:-1,郫县新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=pxds1_2000
+#EXTINF:-1,蓬溪新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=pxxw_2000
+#EXTINF:-1,资阳新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=zyxwzh_2000
+#EXTINF:-1,达川新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=dcxwzh_2000
+#EXTINF:-1,凉山新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=lsxwHDH265_4000
+#EXTINF:-1,凉山彝语综合 高清
+http://192.168.8.188:5678/sxg.php?id=yyzh_2000
+#EXTINF:-1,攀枝花新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=pzhytH265_4000
+#EXTINF:-1,绵阳新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=myytH265_4000
+#EXTINF:-1,绵阳科技 高清
+http://192.168.8.188:5678/sxg.php?id=myetH265_4000
+#EXTINF:-1,达州新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=dzxwzh_2000
+#EXTINF:-1,达州公共 高清
+http://192.168.8.188:5678/sxg.php?id=dzgg_2000
+#EXTINF:-1,达州通川 高清
+http://192.168.8.188:5678/sxg.php?id=tcq_2000
+#EXTINF:-1,雅安新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=yazh_2000
+#EXTINF:-1,雅安公共 高清
+http://192.168.8.188:5678/sxg.php?id=yagg_2000
+#EXTINF:-1,乐山新闻综合 高清
+http://192.168.8.188:5678/sxg.php?id=lsxwzh_4000
+#EXTINF:-1,乐山公共 高清
+http://192.168.8.188:5678/sxg.php?id=lsggpd_4000
+#EXTINF:-1,广元综合 高清
+http://192.168.8.188:5678/sxg.php?id=gyzhH265_4000
+#EXTINF:-1,广元文化生活 高清
+http://192.168.8.188:5678/sxg.php?id=gyggH265_4000
+#EXTINF:-1,巴中综合 高清
+http://192.168.8.188:5678/sxg.php?id=bzytH265_4000
+#EXTINF:-1,巴中文旅生活 高清
+http://192.168.8.188:5678/sxg.php?id=bzetH264_2000
+#EXTINF:-1,高县-1 高清
+http://192.168.8.188:5678/sxg.php?id=gxt_2000
+#EXTINF:-1,新津 高清
+http://192.168.8.188:5678/sxg.php?id=xjzh_4000
+#EXTINF:-1,崇州 高清
+http://192.168.8.188:5678/sxg.php?id=czyt_4000
+#EXTINF:-1,木里 高清
+http://192.168.8.188:5678/sxg.php?id=mltHD_4000
+#EXTINF:-1,岳池 高清
+http://192.168.8.188:5678/sxg.php?id=ycxw_2000
+#EXTINF:-1,万源 高清
+http://192.168.8.188:5678/sxg.php?id=wyxwzh_2000
+#EXTINF:-1,雁江 高清
+http://192.168.8.188:5678/sxg.php?id=yjxw_2000
+#EXTINF:-1,五通桥 高清
+http://192.168.8.188:5678/sxg.php?id=wtqxwzh_2000
+#EXTINF:-1,沙湾融媒 高清
+http://192.168.8.188:5678/sxg.php?id=swxwzh_2000
+#EXTINF:-1,三台综合 高清
+http://192.168.8.188:5678/sxg.php?id=stxwHD_2000
+#EXTINF:-1,精品导视 高清
+http://192.168.8.188:5678/sxg.php?id=jpdsH265_4000
+#EXTINF:-1,川网导视 高清
+http://192.168.8.188:5678/sxg.php?id=cwdsHDH264_4000
