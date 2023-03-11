@@ -8,7 +8,7 @@ http://223.83.183.218:9901/tsfile/live/0001_52.m3u8
 #EXTINF:-1,赣州ZGTV[1920*1080]
 http://223.83.183.218:9901/tsfile/live/0001_53.m3u8
 #EXTINF:-1,深圳都市
-http://113.117.74.17:8081/hls/68/index.m3u8
+http://113.117.74.18:8081/hls/68/index.m3u8
 #EXTINF:-1,广东体育
 http://113.117.74.18:8081/hls/1/index.m3u8
 #EXTINF:-1,揭西综合
